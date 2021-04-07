@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"meta CurrentModule = SeriesAcceleration","category":"page"},{"location":"#SeriesAcceleration","page":"Home","title":"SeriesAcceleration","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"TODO: desciption here","category":"page"},{"location":"#Index","page":"Home","title":"Index","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"index","category":"page"},{"location":"","page":"Home","title":"Home","text":"autodocs Modules = SeriesAcceleration `","category":"page"}]
+}
