@@ -46,7 +46,7 @@ Examples
 ```julia
 using SeriesAcceleration
 
-r = Richardson(1:5,0:3)
+r = Richardson(90:100,0:3)
 arr = cumsum(S1_100 = 1 ./ (1:100) .^ 2)
 limit = esum_c(arr, r)
 ```
