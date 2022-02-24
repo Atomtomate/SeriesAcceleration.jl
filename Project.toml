@@ -1,7 +1,7 @@
 name = "SeriesAcceleration"
 uuid = "d262d690-7b73-43ed-8cf8-7b23904776e1"
 authors = ["Julian Stobbe <Atomtomate@gmx.de>"]
-version = "0.3.3"
+version = "0.3.4"
 
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
@@ -11,4 +11,4 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 Documenter = "0.26"
-julia = "1, 1.6"
+julia = "1, 1.6, 1.7"
